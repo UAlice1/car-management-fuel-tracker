@@ -411,12 +411,3 @@ public ServletRegistrationBean<FuelStatsServlet> fuelStatsServlet() {
 }
 ```
 
-
-## 👨‍💻 Author
- 
-Completed by: GITEGO Faycal 
-
-Date: January 1st, 2026
-
----
-
